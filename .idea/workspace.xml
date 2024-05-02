@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e498d97-2145-416f-a46b-3c1bc27175b0" name="Changes" comment="https://github.com/zljr/flight" />
+    <list default="true" id="2e498d97-2145-416f-a46b-3c1bc27175b0" name="Changes" comment="项目首次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,6 +145,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\xhf98\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2e498d97-2145-416f-a46b-3c1bc27175b0" name="Changes" comment="" />
@@ -151,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714666537619</updated>
       <workItem from="1714666539037" duration="755000" />
-      <workItem from="1714667308511" duration="1000000" />
+      <workItem from="1714667308511" duration="1482000" />
     </task>
     <task id="LOCAL-00001" summary="https://github.com/zljr/flight">
       <created>1714667906815</created>
@@ -167,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714668040119</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="项目首次提交">
+      <created>1714668373762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714668373762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +198,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="https://github.com/zljr/flight" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/zljr/flight" />
+    <MESSAGE value="项目首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目首次提交" />
   </component>
 </project>
