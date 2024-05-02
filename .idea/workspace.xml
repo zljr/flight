@@ -6,38 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e498d97-2145-416f-a46b-3c1bc27175b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/flight_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flight.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/commons-lang3-3.14.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-java-8.0.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/servlet-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/zuel/dao/FlightDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/zuel/entity/FlightEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/zuel/service/FlightService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/zuel/servlet/DeleteFlightServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/zuel/servlet/FlightServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/zuel/servlet/InsertFlightServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/zuel/servlet/UpdateFlightServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/zuel/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/zuel/utils/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/zuel/utils/JdbcUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/flight.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/insert.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/update.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="2e498d97-2145-416f-a46b-3c1bc27175b0" name="Changes" comment="https://github.com/zljr/flight" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,8 +151,16 @@
       <option name="presentableId" value="Default" />
       <updated>1714666537619</updated>
       <workItem from="1714666539037" duration="755000" />
-      <workItem from="1714667308511" duration="354000" />
+      <workItem from="1714667308511" duration="698000" />
     </task>
+    <task id="LOCAL-00001" summary="https://github.com/zljr/flight">
+      <created>1714667906815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714667906815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,5 +176,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://github.com/zljr/flight" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/zljr/flight" />
   </component>
 </project>
